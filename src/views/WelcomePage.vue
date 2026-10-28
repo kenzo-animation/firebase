@@ -24,7 +24,7 @@
           <p v-if="errorMessage" class="form-message error-message" role="alert">
             {{ errorMessage }}
           </p>
-        </div>
+        </div>  
         <div class="welcome-art" aria-hidden="true">
           <div class="art-orbit orbit-one"></div>
           <div class="art-orbit orbit-two"></div>
