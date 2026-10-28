@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'firebase',
-  webDir: 'dist'
+  appId: 'br.com.meuespaco.app',
+  appName: 'Meu Espaço',
+  webDir: 'dist',
 };
 
 export default config;
